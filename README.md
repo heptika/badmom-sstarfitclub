@@ -51,6 +51,6 @@
 -	Ikonok: [Font Awesome](https://fontawesome.com)
 -	ChatGpt: Tréner fotók, logó generálása
 -	QR kód készítő oldal: https://createqrfree.com/
- ##Összegzés
+  - Összegzés
 - A  BadMom’s StarFit Club  weboldal egy modern, letisztult és reszponzív CMS alapú honlap. A „BadMom’s” azt szimbolizálja, hogy ez a klub felszabadítja a nőket az elvárásoktól,  nem kell tökéletesnek lenni, itt mindenki önmaga lehet, sport közben szórakozik, közösséget épít, ezzel motiváló környezetet biztosítunk minden korosztálynak, akik szeretnének mozogni, fejlődni és jól érezni magukat. A projekt a sportklub bemutatásán túl lehetőséget nyújt online jelentkezésre, vélemények írására, közösségépítésre és a klub életének folyamatos nyomon követésére.
 
