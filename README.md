@@ -11,9 +11,9 @@ A projekt célja egy olyan online felület létrehozása amely:
 - bemutatja a klub szolgáltatásait, edzőit, programjait és közösségi életét,
 - lehetőséget biztosít a felhasználóknak az edzésekre való jelentkezésre.
   
-A weboldal **reszponzív kialakítással** készült, így asztali számítógépen, tableten és mobiltelefonon egyaránt kényelmesen használható.
-A látogatók számára **letisztult és modern** dizájnt terveztünk, amely a klub **fiatalos és lendületes arculatát** tükrözi.
-  ---
+- A weboldal **reszponzív kialakítással** készült, így asztali számítógépen, tableten és mobiltelefonon egyaránt kényelmesen használható.
+- A látogatók számára **letisztult és modern dizájnt** terveztünk, amely a klub **fiatalos és lendületes** arculatát tükrözi.
+---
 ## 1.	Fő funkciók 
 -	**Klub bemutatása**  - rövid leírás a klub küldetéséről, értékeiről, közösségi szerepéről. 
 -	**Edzéstípusok ismertetése** - Funkcionális tréning, HIIT köredzés,Pilates & Jóga, Személyi edzés. 
@@ -21,9 +21,9 @@ A látogatók számára **letisztult és modern** dizájnt terveztünk, amely a 
 -	**Galéria**  - képek és rövid videók a klub életéből, edzéstípusokról
 -	**Jelentkezési űrlap**  - a látogatók név, e-mail és telefonszám megadásával, edzéstípus és időpont kiválasztásával jelentkezhetnek.
 -	**Vélemények oldal** – vendégeink véleménye rólunk, trénereinkről
--	**Kapcsolat oldal**  - elérhetőségek, nyitvatartási idő és Google Maps térkép beágyazással. 
--	**Lábléc**  - minden oldalon megjelenő közös rész, amely tartalmazza a fontosabb linkeket és a közösségi média elérhetőségeket.
-	---
+-	**Kapcsolat oldal**  - elérhetőségek, nyitvatartási idő és Google Maps térkép beágyazással.
+-	**Lábléc** - minden oldalon megjelenő közös rész, amely tartalmazza a fontosabb linkeket és a közösségi média elérhetőségeket.
+---
 ## 2.	 Technikai megoldások 
 -	**CMS keretrendszer**:  WordPress 
 -	**Használt sablon**:  reszponzív, testreszabható (pl. Astra / OceanWP / Hello Elementor) 
@@ -37,7 +37,7 @@ A látogatók számára **letisztult és modern** dizájnt terveztünk, amely a 
 -	**Canva**: edzőkártyák szerkesztése
 -	**ChatGpt**: tréner fotók, logók generálása
 -	**QR kód** készítő oldal:  [createqrfree.com] (https://createqrfree.com)
-	---
+---
   ## 3.	 Csapatmunka és szerepek 
   Ezt a  projektet **3 fős fejlesztői csapat** készítette: 
  - **Projektvezető**: *Baloghné Orosz Erika*
