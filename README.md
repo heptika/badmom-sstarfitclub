@@ -4,7 +4,8 @@
 - Baloghné Orosz Erika
 -	Mátyus Marianna
 -	Török Tünde
-A  **BadMom’s StarFit Club**  egy képzeletbeli, modern sportklub hivatalos weboldala, amelyet **WordPress CMS** segítségével valósítottunk meg, **cPanel ingyenes tárhely** használatával.
+	
+A **BadMom’s StarFit Club**  egy képzeletbeli, modern sportklub hivatalos weboldala, amelyet **WordPress CMS** segítségével valósítottunk meg, **cPanel ingyenes tárhely** használatával.
 A projekt célja egy olyan online felület létrehozása amely:
 - bemutatja a klub szolgáltatásait, edzőit, programjait és közösségi életét,
 - lehetőséget biztosít a felhasználóknak az edzésekre való jelentkezésre.
