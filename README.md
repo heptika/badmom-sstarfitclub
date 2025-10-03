@@ -5,7 +5,7 @@
 -	Mátyus Marianna
 -	Török Tünde
 -A  BadMom’s StarFit Club  egy képzeletbeli, modern sportklub hivatalos weboldala, amelyet WordPress CMS segítségével valósítottunk meg, cPanel ingyenes tárhely használatával. A projekt célja egy olyan online felület létrehozása, amely bemutatja a klub szolgáltatásait, edzőit, programjait és közösségi életét, valamint lehetőséget biztosít a felhasználóknak az edzésekre való jelentkezésre. A weboldal reszponzív kialakítással készült, így asztali számítógépen, tableten és mobiltelefonon egyaránt kényelmesen használható. A látogatók számára letisztult és modern dizájnt terveztünk, amely a klub fiatalos és lendületes arculatát tükrözi. 
-#1.	Fő funkciók 
+##1.	Fő funkciók 
 -	Klub bemutatása  - rövid leírás a klub küldetéséről, értékeiről, közösségi szerepéről. 
 -	Edzéstípusok ismertetése: Funkcionális tréning, HIIT köredzés,Pilates & Jóga, Személyi edzés. 
 -	Edzők bemutatása  - edzőkártyákkal, fényképpel, rövid leírással, elérhetőséggel
@@ -14,7 +14,7 @@
 -	Vélemények oldal – vendégeink véleménye rólunk, trénereinkről
 -	Kapcsolat oldal  - elérhetőségek, nyitvatartási idő és Google Maps térkép beágyazással. 
 -	Lábléc  - minden oldalon megjelenő közös rész, amely tartalmazza a fontosabb linkeket és a közösségi média elérhetőségeket.
-#2.	 Technikai megoldások 
+##2.	 Technikai megoldások 
 -	CMS keretrendszer:  WordPress 
 -	Használt sablon:  reszponzív, testreszabható (pl. Astra / OceanWP / Hello Elementor) 
 -	Űrlapkezelés:  Contact Form 7 / WPForms plugin 
@@ -27,7 +27,7 @@
 -	Canva: edzőkártyák szerkesztése
 -	ChatGpt: tréner fotók, logók generálása
 -	QR kód készítő oldal: https://createqrfree.com
-#3.	 Csapatmunka és szerepek 
+  #3.	 Csapatmunka és szerepek 
 - Ezt a  projektet 3 fős fejlesztői csapat készítette. 
 -	Projektvezető: Baloghné Orosz Erika - a feladatok koordinálása, dokumentáció elkészítése, felhasznált anyag gyűjtése, szerkesztése, feltöltése WordPress média tárba.
 - Webfejlesztő: Mátyus Marianna - a WordPress telepítése Cpanel ingyenes tárhelyre, sablon testreszabása, funkciók beállítása. 
