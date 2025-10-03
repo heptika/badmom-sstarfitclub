@@ -1,14 +1,16 @@
 # BadMom’s StarFit Club  
 ## Projekt bemutatása
 **Készítették:**
-- Baloghné Orosz Erika
+- 	Baloghné Orosz Erika
 -	Mátyus Marianna
 -	Török Tünde
 	
 A **BadMom’s StarFit Club**  egy képzeletbeli, modern sportklub hivatalos weboldala, amelyet **WordPress CMS** segítségével valósítottunk meg, **cPanel ingyenes tárhely** használatával.
+
 A projekt célja egy olyan online felület létrehozása amely:
 - bemutatja a klub szolgáltatásait, edzőit, programjait és közösségi életét,
 - lehetőséget biztosít a felhasználóknak az edzésekre való jelentkezésre.
+  
 A weboldal **reszponzív kialakítással** készült, így asztali számítógépen, tableten és mobiltelefonon egyaránt kényelmesen használható.
 A látogatók számára **letisztult és modern** dizájnt terveztünk, amely a klub **fiatalos és lendületes arculatát** tükrözi.
   ---
@@ -34,7 +36,7 @@ A látogatók számára **letisztult és modern** dizájnt terveztünk, amely a 
 -	**GitHub verziókövetés**:  a forráskód és dokumentáció kezelésére 
 -	**Canva**: edzőkártyák szerkesztése
 -	**ChatGpt**: tréner fotók, logók generálása
--	**QR kód készítő oldal**:  [createqrfree.com] (https://createqrfree.com)
+-	**QR kód** készítő oldal:  [createqrfree.com] (https://createqrfree.com)
 	---
   ## 3.	 Csapatmunka és szerepek 
   Ezt a  projektet **3 fős fejlesztői csapat** készítette: 
