@@ -9,8 +9,8 @@ A **BadMom’s StarFit Club**  egy képzeletbeli, modern sportklub hivatalos web
 A projekt célja egy olyan online felület létrehozása amely:
 - bemutatja a klub szolgáltatásait, edzőit, programjait és közösségi életét,
 - lehetőséget biztosít a felhasználóknak az edzésekre való jelentkezésre.
-  A weboldal **reszponzív kialakítással** készült, így asztali számítógépen, tableten és mobiltelefonon egyaránt kényelmesen használható.
-  A látogatók számára **letisztult és modern** dizájnt terveztünk, amely a klub **fiatalos és lendületes arculatát** tükrözi.
+A weboldal **reszponzív kialakítással** készült, így asztali számítógépen, tableten és mobiltelefonon egyaránt kényelmesen használható.
+A látogatók számára **letisztult és modern** dizájnt terveztünk, amely a klub **fiatalos és lendületes arculatát** tükrözi.
   ---
 ## 1.	Fő funkciók 
 -	**Klub bemutatása**  - rövid leírás a klub küldetéséről, értékeiről, közösségi szerepéről. 
@@ -34,7 +34,7 @@ A projekt célja egy olyan online felület létrehozása amely:
 -	**GitHub verziókövetés**:  a forráskód és dokumentáció kezelésére 
 -	**Canva**: edzőkártyák szerkesztése
 -	**ChatGpt**: tréner fotók, logók generálása
--	**QR kód készítő oldal**: [createqrfree.com] (https://createqrfree.com)
+-	**QR kód készítő oldal**:  [createqrfree.com] (https://createqrfree.com)
 	---
   ## 3.	 Csapatmunka és szerepek 
   Ezt a  projektet **3 fős fejlesztői csapat** készítette: 
@@ -48,7 +48,8 @@ A projekt célja egy olyan online felület létrehozása amely:
 -	**Dizájner / Tartalomfelelős**: *Török Tünde* 
 -	a szövegek, képek, logó és vizuális   elemek elkészítése,
 -	feltöltése WordPress média tárba. 
- A fejlesztés során **online együttműködési eszközöket** (pl. Google Drive, Messenger, közös e-mail cím) használtunk a munkaszervezésre és a tartalmak megosztására.
+A fejlesztés során **online együttműködési eszközöket** (pl. Google Drive, Messenger, közös e-mail cím)
+használtunk a munkaszervezésre és a tartalmak megosztására.
 ---
  ## 4.	 A weboldal célja és célközönsége 
 - A weboldal **elsődleges célja**,
@@ -60,7 +61,7 @@ A projekt célja egy olyan online felület létrehozása amely:
 -	mindenki, aki közösségi élményt és motivációt keres a sportban.
 ---
 ## 5.	Elérhetőségek és hivatkozások
-- **Publikus weboldal** címe: [https://badmomsstarfit.byethost24.com] (https://badmomsstarfit.byethost24.com)  
+- **Publikus weboldal** címe: [badmomsstarfit.byethost24.com] (https://badmomsstarfit.byethost24.com)  
 - **Kapcsolat e-mail**:  badmomsstarfitclub@gmail.com
 ---
 ## 6.	Felhasznált források : 
@@ -78,5 +79,9 @@ A **„BadMom’s”** azt szimbolizálja, hogy ez a klub felszabadítja a nőke
 - itt mindenki önmaga lehet,
 - sport közben szórakozik, közösséget épít,
 - ezzel motiváló környezetet biztosítunk minden korosztálynak, akik szeretnének mozogni, fejlődni és jól érezni magukat.
-A projekt a sportklub bemutatásán túl lehetőséget nyújt **online jelentkezésre**, **vélemények írására**, **közösségépítésre** és a klub életének folyamatos nyomon követésére.
+A projekt a sportklub bemutatásán túl lehetőséget nyújt
+- **online jelentkezésre**,
+- **vélemények írására**,
+- **közösségépítésre** és
+- a **klub életének** folyamatos nyomon követésére.
 
