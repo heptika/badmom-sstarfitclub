@@ -81,6 +81,7 @@ A **„BadMom’s”** azt szimbolizálja, hogy ez a klub felszabadítja a nőke
 - itt mindenki önmaga lehet,
 - sport közben szórakozik, közösséget épít,
 - ezzel motiváló környezetet biztosítunk minden korosztálynak, akik szeretnének mozogni, fejlődni és jól érezni magukat.
+
 A **projekt** a sportklub bemutatásán túl **lehetőséget nyújt**:
 - **online jelentkezésre**,
 - **vélemények írására**,
