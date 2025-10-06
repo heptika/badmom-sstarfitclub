@@ -49,7 +49,7 @@ A projekt célja egy olyan online felület létrehozása amely:
 - sablon testreszabása, funkciók beállítása. 
 -	**Dizájner / Tartalomfelelős**: *Török Tünde* 
 -	a szövegek, képek, logó és vizuális   elemek elkészítése,
--	feltöltése WordPress média tárba. 
+-	feltöltése WordPress média tárba.  
 A fejlesztés során **online együttműködési eszközöket** (pl. Google Drive, Messenger, közös e-mail cím)
 használtunk a munkaszervezésre és a tartalmak megosztására.
 ---
@@ -81,7 +81,7 @@ A **„BadMom’s”** azt szimbolizálja, hogy ez a klub felszabadítja a nőke
 - itt mindenki önmaga lehet,
 - sport közben szórakozik, közösséget épít,
 - ezzel motiváló környezetet biztosítunk minden korosztálynak, akik szeretnének mozogni, fejlődni és jól érezni magukat.
-A projekt a sportklub bemutatásán túl lehetőséget nyújt
+A **projekt** a sportklub bemutatásán túl **lehetőséget nyújt**:
 - **online jelentkezésre**,
 - **vélemények írására**,
 - **közösségépítésre** és
